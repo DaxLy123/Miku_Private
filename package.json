@@ -1,0 +1,36 @@
+{
+  "name": "mymusicbot",
+  "version": "1.0.0",
+  "description": "A discord bot music made with lavalink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discordbot",
+    "MusicBot",
+    "Lavalink"
+  ],
+  "author": "MrSon",
+  "license": "ISC",
+  "dependencies": {
+    "amethyste-api": "^1.1.2",
+    "ascii-table": "0.0.9",
+    "canvas-constructor": "^3.1.0",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "discord.js-lavalink": "^2.2.3",
+    "enmap": "^5.2.4",
+    "erela.js": "^1.1.4",
+    "figlet": "^1.3.0",
+    "got": "^10.6.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.9.2",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "superagent": "^5.2.2",
+    "url": "^0.11.0"
+  }
+}
